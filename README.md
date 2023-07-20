@@ -1,1 +1,1 @@
-# AICTE-IBM-INTERNSHIP
+# AICTE-IBM-Internship
